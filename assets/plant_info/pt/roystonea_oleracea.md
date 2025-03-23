@@ -1,0 +1,11 @@
+_Roystonea oleracea_, conhecida como palmeira-imperial ou palmeira-real-do-Caribe, é uma palmeira de grande porte originária das Pequenas Antilhas, Venezuela e Colômbia. Esta espécie é altamente valorizada como árvore ornamental em regiões tropicais e subtropicais devido à sua altura impressionante e aparência majestosa.
+
+A palmeira-imperial pode atingir até 40 metros de altura, com alguns exemplares chegando a 57 metros. Seu tronco é liso, cilíndrico e de coloração cinza-esbranquiçada, com um diâmetro entre 46 e 66 centímetros. Uma característica distintiva desta espécie é a coroa verde formada pelas bainhas superiores das folhas, que se estende cerca de 2 metros pelo tronco. A palmeira possui entre 16 e 22 folhas pinadas e arqueadas, com comprimento de 4 a 6 metros. Suas inflorescências, de aproximadamente 1,4 metros de comprimento, contêm pequenas flores brancas que posteriormente dão origem a frutos de coloração roxo-escura.
+
+Essa palmeira prospera em áreas úmidas, sendo encontrada frequentemente em regiões costeiras, planícies inundáveis e margens de rios. É nativa de regiões como Guadalupe, Dominica, Martinica, Barbados, Trinidad e Tobago, norte da Venezuela e nordeste da Colômbia. Também se naturalizou na Guiana, no Suriname e na Guiana Francesa.
+
+Ecologicamente, os frutos da _Roystonea oleracea_ são uma importante fonte de alimento para diversas espécies de aves, incluindo papagaios e araras. Em certas regiões, esses frutos representam uma parte significativa da dieta de algumas populações de aves durante determinados períodos do ano.
+
+Além de sua beleza ornamental, essa espécie também possui utilidades práticas. A madeira da palmeira-imperial é empregada na construção, enquanto seu broto terminal é comestível, sendo conhecido como "palmito". Além disso, a seiva das inflorescências jovens pode ser fermentada para a produção de bebidas alcoólicas.
+
+Devido à sua resistência, valor estético e adaptabilidade, a _Roystonea oleracea_ é frequentemente plantada ao longo de avenidas, em parques e grandes jardins, sendo considerada um símbolo de elegância e imponência tropical.

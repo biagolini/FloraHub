@@ -1,0 +1,19 @@
+_Psidium guajava_, comúnmente conocido como el guayabo, es un pequeño árbol o arbusto perenne tropical perteneciente a la familia Myrtaceae. Originario del Caribe, Centro y Sudamérica, se ha cultivado ampliamente en regiones tropicales y subtropicales de todo el mundo. El árbol generalmente alcanza alturas de entre 3 a 10 metros, con un tronco corto de corteza lisa, delgada y de color cobrizo que se desprende, revelando capas verdosas debajo. Sus ramas son cuadrangulares y pubescentes cuando jóvenes.
+
+Las hojas son simples, opuestas, oblongas a elípticas, midiendo de 5 a 15 centímetros de largo, con venas prominentes y un aroma fragante al triturarse. Las flores son blancas, de aproximadamente 2.5 centímetros de diámetro, con cinco pétalos y numerosos estambres, que florecen solitarias o en pequeños racimos en las axilas de las hojas.
+
+El fruto, conocido como guayaba, es una baya que varía en forma desde redonda a ovoide o en forma de pera, midiendo de 4 a 12 centímetros de diámetro. El color de la piel varía de verde a amarillo, a veces exhibiendo un tono rojizo. La pulpa puede ser blanca, rosada, roja o color salmón, con un sabor dulce o ligeramente ácido y un aroma fuerte y característico. El fruto contiene numerosas semillas pequeñas y duras incrustadas en la pulpa.
+
+La guayaba es altamente valorada por su contenido nutricional, siendo rica en vitaminas A y C, fibra dietética y minerales esenciales como potasio y magnesio. El alto contenido de vitamina C, que varía de 180 a 300 miligramos por cada 100 gramos de fruta, supera al de muchos cítricos, contribuyendo al soporte del sistema inmunológico y la salud de la piel.
+
+En aplicaciones culinarias, la guayaba se consume fresca o procesada en diversos productos como jugos, mermeladas, jaleas y postres. En Brasil, la tradicional "goiabada", una pasta densa de guayaba, es un dulce popular. El perfil de sabor único de la fruta también la hace adecuada para platos salados y salsas.
+
+Más allá de sus usos culinarios, la guayaba tiene una larga historia en la medicina tradicional. Las hojas se utilizan para preparar infusiones o tés que se cree tratan problemas gastrointestinales, como diarrea y disentería, debido a sus propiedades antimicrobianas. La corteza y las raíces también se han utilizado por sus cualidades astringentes en el tratamiento de heridas y úlceras.
+
+Los guayabos son resistentes y adaptables, prosperando en una variedad de tipos de suelo, siempre que estén bien drenados. Prefieren la exposición total al sol y pueden tolerar períodos de sequía, aunque el riego regular promueve una mejor producción de frutos. La especie es susceptible a las heladas y se desarrolla mejor en regiones con climas cálidos. En algunas áreas, la guayaba se ha vuelto invasiva, particularmente en islas tropicales como las Galápagos, donde representa una amenaza para los ecosistemas nativos.
+
+Se han desarrollado varias variedades para mejorar características específicas de la fruta, como tamaño, sabor y color de la pulpa. Por ejemplo, en Brasil, las variedades como 'Paluma' y 'Pedro Sato' son populares por sus frutos de pulpa roja y alto rendimiento. En Taiwán, la guayaba 'Perla' es apreciada por su textura crujiente y sabor dulce.
+
+La madera del guayabo es densa y duradera, resistente a ataques de insectos y hongos, lo que la hace adecuada para su uso en carpintería y como leña en la producción de carbón vegetal. En Hawái, la madera de guayaba se usa comúnmente para ahumar carnes, aportando un sabor distintivo a los alimentos.
+
+En resumen, _Psidium guajava_ es una planta versátil con gran importancia económica y cultural. Sus frutos comestibles son apreciados en todo el mundo, y sus propiedades medicinales han sido reconocidas en diversas prácticas curativas tradicionales. La adaptabilidad y resistencia del árbol contribuyen aún más a su cultivo y aprovechamiento generalizado.

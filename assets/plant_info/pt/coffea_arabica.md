@@ -1,0 +1,13 @@
+_Coffea arabica_, comumente conhecida como café arábica, é uma espécie de planta da família Rubiaceae. Acredita-se que seja a primeira espécie de café a ter sido cultivada e é a variedade dominante, representando cerca de 60% da produção mundial. Originária da Etiópia e do Iêmen, a planta se espalhou por diversas regiões tropicais, onde é cultivada em altitudes elevadas para produzir grãos de café de alta qualidade.
+
+A planta é um arbusto ou pequena árvore que pode atingir entre 2 a 5 metros de altura. Suas folhas são verdes escuras, brilhantes e ovais. As flores são brancas e exalam um aroma doce, semelhante ao do jasmim. Os frutos são drupas pequenas, inicialmente verdes, que adquirem uma coloração vermelha ou roxa quando maduras. Cada fruto geralmente contém duas sementes, conhecidas como grãos de café.
+
+O café arábica é valorizado por seu sabor suave e aroma rico, com notas florais e frutadas. Seu teor de cafeína é menor em comparação ao café robusta, tornando a bebida menos amarga e mais agradável ao paladar. A variedade Bourbon e a Typica são algumas das mais cultivadas, sendo a base para diversas outras cultivares.
+
+O cultivo do _Coffea arabica_ exige um clima tropical ameno, com temperaturas entre 15°C e 24°C e precipitação moderada. As plantas crescem melhor em solos bem drenados, ricos em matéria orgânica, e frequentemente são cultivadas à sombra para melhorar a qualidade dos grãos. Países como Brasil, Colômbia, Etiópia e Costa Rica estão entre os maiores produtores de café arábica do mundo.
+
+Além de seu valor econômico, o café desempenha um papel social e cultural significativo. A bebida é consumida globalmente e faz parte da rotina diária de milhões de pessoas. Além disso, pesquisas indicam que o consumo moderado de café pode oferecer benefícios à saúde, como propriedades antioxidantes e melhora na função cognitiva.
+
+Apesar de sua importância, o cultivo do _Coffea arabica_ enfrenta desafios, incluindo mudanças climáticas, pragas e doenças como a ferrugem do café. Para mitigar esses problemas, os produtores investem em técnicas de cultivo sustentável e no desenvolvimento de variedades mais resistentes.
+
+O café arábica continua a ser a escolha preferida para cafés especiais e de alta qualidade, sendo essencial para a economia e cultura de muitas nações produtoras.

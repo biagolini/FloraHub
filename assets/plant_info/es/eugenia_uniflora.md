@@ -1,0 +1,15 @@
+_Eugenia uniflora_, comúnmente conocida como pitanga, cereza de Surinam o cereza de Brasil, es un arbusto perenne o pequeño árbol tropical perteneciente a la familia Myrtaceae. Originaria de la costa este de América del Sur, abarcando desde Surinam y Guayana Francesa hasta el sur de Brasil, así como partes de Paraguay, Uruguay y Argentina, se ha cultivado ampliamente en regiones tropicales y subtropicales de todo el mundo.
+
+La planta generalmente alcanza alturas de 2 a 7 metros (6,5 a 23 pies) y presenta una copa densa y frondosa. Sus hojas son brillantes, ovadas y miden entre 2 y 6 centímetros (0,8 a 2,4 pulgadas) de largo. El follaje nuevo a menudo emerge con un tono rojizo, madurando a un verde intenso. Las hojas están dispuestas de forma opuesta a lo largo de los tallos y emiten un aroma fragante cuando se trituran.
+
+La floración ocurre en primavera y principios de verano, produciendo pequeñas flores blancas fragantes con cuatro pétalos y numerosos estambres. Estas flores son atractivas para polinizadores, incluyendo abejas y mariposas.
+
+El fruto de _E. uniflora_ es una baya acanalada en forma de calabaza, que mide de 2 a 4 centímetros (0,8 a 1,6 pulgadas) de diámetro. Cuando está maduro, el color del fruto varía de rojo brillante a púrpura oscuro, dependiendo de la variedad. La pulpa es jugosa y aromática, ofreciendo un sabor agridulce que es tanto refrescante como distintivo. Cada fruto contiene de una a tres semillas grandes y resinosas.
+
+Los usos culinarios de la pitanga son diversos. La fruta puede consumirse fresca, aunque algunas personas pueden encontrar el sabor resinoso o ligeramente amargo. Es comúnmente utilizada en la preparación de mermeladas, jaleas, salsas y bebidas. En ciertas culturas, la fruta se fermenta para producir bebidas alcohólicas. Además, las hojas se han utilizado en la medicina tradicional por sus supuestas propiedades antiinflamatorias y antidiarreicas.
+
+_E. uniflora_ también es valorada como planta ornamental. Su atractivo follaje, flores fragantes y frutos coloridos la hacen adecuada para setos, pantallas o especímenes individuales en jardines y paisajes. La planta es adaptable a varios tipos de suelo, pero prefiere suelos bien drenados y puede tolerar tanto pleno sol como sombra parcial.
+
+Sin embargo, en algunas regiones, particularmente en partes de Florida y Hawái, _E. uniflora_ se ha vuelto invasiva, propagándose rápidamente y desplazando a la vegetación nativa. Esta característica requiere una gestión y monitoreo cuidadosos al introducir la planta en áreas no nativas.
+
+A pesar de su invasividad en ciertas localidades, la pitanga sigue siendo una opción popular para jardineros y paisajistas debido a su atractivo estético y frutos comestibles. Su resistencia y adaptabilidad continúan contribuyendo a su cultivo generalizado en climas adecuados.

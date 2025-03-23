@@ -1,0 +1,11 @@
+_Roystonea oleracea_, comúnmente conocida como la palma real del Caribe, es una palmera grande y elegante originaria de las Antillas Menores, Venezuela y Colombia. Esta especie es muy apreciada como árbol ornamental en regiones tropicales y subtropicales debido a su altura imponente y su majestuosa apariencia.
+
+La palma real del Caribe puede alcanzar hasta 40 metros de altura, con algunos ejemplares que llegan a los 57 metros. Su tronco es liso, cilíndrico y de color gris blanquecino, con un diámetro de entre 46 y 66 centímetros. Una característica corona verde, formada por las vainas superiores de las hojas, se extiende aproximadamente 2 metros hacia abajo del tronco. La palma posee entre 16 y 22 hojas pinnadas y arqueadas, cada una de entre 4 y 6 metros de largo. Sus inflorescencias, de aproximadamente 1,4 metros de longitud, contienen pequeñas flores blancas que posteriormente dan lugar a frutos de color púrpura negruzco.
+
+Esta palmera prospera en áreas húmedas, encontrándose frecuentemente en zonas costeras, llanuras inundables y cerca de ríos. Es nativa de regiones como Guadalupe, Dominica, Martinica, Barbados, Trinidad y Tobago, el norte de Venezuela y el noreste de Colombia. También se ha naturalizado en Guyana, Surinam y Guayana Francesa.
+
+Desde el punto de vista ecológico, los frutos de _Roystonea oleracea_ son una fuente crucial de alimento para diversas especies de aves, incluyendo loros y guacamayos. En ciertas regiones, estos frutos constituyen una parte importante de la dieta de algunas poblaciones de aves durante meses específicos del año.
+
+Además de su atractivo ornamental, esta especie tiene usos prácticos. La madera de la palma real se utiliza en la construcción, mientras que su brote terminal es comestible y conocido como "repollo de palmera". Asimismo, la savia de sus inflorescencias jóvenes puede fermentar para producir bebidas alcohólicas.
+
+Debido a su resistencia, su valor estético y su capacidad de adaptación, _Roystonea oleracea_ se planta frecuentemente en avenidas, parques y grandes jardines, siendo considerada un símbolo de elegancia y grandeza tropical.

@@ -1,0 +1,29 @@
+{
+  "GENERAL": {
+    "CURRENT_LANGUAGE": "Español",
+    "CLOSE": "Cerrar"
+  },
+  "MENU": {
+    "OPEN_PANEL": "Abrir panel",
+    "CLOSE_PANEL": "Cerrar panel",
+    "HOME": "Volver a la lista de especies de plantas",
+    "CHANGE_LANGUAGE": "Cambiar idioma",
+    "CHANGE_THEME": "Cambiar tema",
+    "DARK_MODE": "Modo oscuro",
+    "LIGHT_MODE": "Modo claro",
+    "SETTINGS": "Configuraciones",
+    "LOGOUT": "Cerrar sesión"
+  },
+  "PAGE_NOT_FOUND": {
+    "WARNING": "Página no encontrada"
+  },
+  "CATALOG_PANEL": {
+    "LEARN_MORE": "Saber más...",
+    "ABOUT": "Acerca de este proyecto"
+  },
+  "CATALOG_DETAILS": {
+    "LISTEN": "Haz clic para escuchar",
+    "SEE_WIKIPEDIA": "Ver en Wikipedia",
+    "BACK": "Ir al catálogo completo de plantas"
+  }
+}
