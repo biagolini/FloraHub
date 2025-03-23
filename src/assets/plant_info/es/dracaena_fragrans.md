@@ -1,0 +1,9 @@
+_Dracaena fragrans_, conocida como Drácena, es una planta tropical muy apreciada por su atractivo ornamental en interiores. Originaria de regiones tropicales de África, esta planta prospera en climas cálidos y es ampliamente cultivada como planta de interior debido a su fácil mantenimiento y apariencia atractiva. Sus hojas son anchas, brillantes y generalmente verdes con franjas amarillas o verde claro, formando un follaje denso que aporta un toque vibrante a los espacios interiores.
+
+_Dracaena fragrans_ es especialmente valorada por su capacidad para purificar el aire interior al eliminar toxinas como el formaldehído, el benceno y el tricloroetileno. Esto la convierte en una opción popular para oficinas, hogares y otros entornos cerrados. La planta prospera mejor en luz indirecta, requiriendo riego moderado para mantener sus hojas exuberantes.
+
+Además de su atractivo estético y sus propiedades purificadoras del aire, _Dracaena fragrans_ es frecuentemente seleccionada por su resistencia y adaptabilidad. Puede tolerar condiciones de poca luz, cierto descuido ocasional y niveles variables de humedad, lo que la convierte en una elección ideal para personas que buscan una planta duradera pero visualmente atractiva. Con el cuidado adecuado, puede crecer hasta 2 metros en interiores, con plantas maduras que ocasionalmente producen flores blancas y fragantes.
+
+Aunque se considera no tóxica para los humanos, puede ser ligeramente tóxica para las mascotas si se ingiere, causando síntomas como vómitos o salivación excesiva. Por ello, se recomienda colocar la planta fuera del alcance de animales curiosos.
+
+_Dracaena fragrans_ se destaca como una excelente adición a cualquier entorno interior, combinando belleza con funcionalidad para mejorar la calidad del aire y crear una atmósfera relajante.

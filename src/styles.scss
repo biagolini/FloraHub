@@ -1,0 +1,201 @@
+@use '@angular/material' as mat;
+
+@include mat.core();
+
+// Definição de temas
+$light-theme: mat.define-light-theme((
+  color: (
+    primary: mat.define-palette(mat.$green-palette),
+    accent: mat.define-palette(mat.$amber-palette),
+  ),
+  typography: mat.define-typography-config(),
+  density: 0
+));
+
+$dark-theme: mat.define-dark-theme((
+  color: (
+    primary: mat.define-palette(mat.$green-palette),
+    accent: mat.define-palette(mat.$amber-palette),
+  ),
+  typography: mat.define-typography-config(),
+  density: 0
+));
+
+// Aplicar automaticamente o tema correto baseado na classe no <body>
+.light-theme {
+  @include mat.all-component-themes($light-theme);
+  background-color: mat.get-color-from-palette(mat.$grey-palette, 50) !important;
+  color: mat.get-color-from-palette(mat.$grey-palette, 900) !important;
+}
+
+.dark-theme {
+  @include mat.all-component-themes($dark-theme);
+  background-color: mat.get-color-from-palette(mat.$grey-palette, 900) !important;
+  color: mat.get-color-from-palette(mat.$grey-palette, 50) !important;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.full-width {
+  width: 100%;
+}
+.full-height {
+  height: 100%;
+}
+
+.full-page-height {
+  height: 100vh;
+}
+.half-width {
+  width: 50%;
+}
+.page {
+  margin: 40px;
+  .page-header {
+    .page-title {
+      color: primary;
+      font-size: 20px;
+      font-weight: bold;
+    }
+    margin-bottom: 5%;
+    border-bottom: solid 1px #707070;
+  }
+  .subtitle {
+    color: primary;
+    h2 {
+      margin: 0;
+      font-weight: bold;
+    }
+    h3 {
+      padding: 0.8em 0;
+      margin: 0;
+      font-weight: bold;
+    }
+  }
+  .filter .searcher {
+    height: 60px;
+    font-size: 16px;
+  }
+  .mat-flat-button {
+    font-size: 16px;
+  }
+}
+.navegation-container {
+  width: 100vw;
+  min-height: 100vh;
+  border: px solid rgba(0, 0, 0, 0.5);
+  margin: 0px;
+  padding: 0, to;
+  span {
+    margin: 2px;
+  }
+  mat-sidenav {
+  }
+}
+
+/* Para icones do grupo Branc */
+@font-face {
+  font-family: "Material Symbols Outlined";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/materialsymbolsoutlined/v7/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOej.woff2)
+    format("woff2");
+}
+
+
+
+.end_page_button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  color: #007bff;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  transition: background 0.3s, color 0.3s;
+  width: fit-content;
+
+  &:hover {
+    background: #e0e0e0;
+    color: #0056b3;
+  }
+
+  .material-symbols-outlined {
+    font-size: 24px;
+  }
+
+  .end_page_text {
+    font-size: 16px;
+  }
+}
+
+
+.catalog-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+  padding: 16px;
+  background-color: inherit;
+}
+
+.plant-card {
+  max-width: 400px;
+  width: 100%;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+  padding: 16px; 
+  
+  mat-card-title {
+    font-weight: bold;
+  }
+
+  mat-card-subtitle {
+    color: var(--mat-card-subtitle-color, inherit);
+  }
+
+  mat-card-content {
+    color: inherit;
+  }
+
+  mat-card-actions {
+    a {
+      color: var(--mat-primary) !important;
+    }
+  }
+}
+
+.markdown-content {
+  text-align: justify; 
+  line-height: 1.5; 
+
+}
+
+.category-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+}
+
+mat-card-subtitle {
+  font-style: italic;
+}
+
+
+mat-card-image {
+  width: 100%; 
+  object-fit: cover; 
+  min-width: 300px;
+  min-height: 400px;
+}

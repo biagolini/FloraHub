@@ -1,0 +1,13 @@
+La _Cassia spectabilis_, también conocida como casia amarilla, es un árbol de la familia de las fabáceas, subfamilia _Caesalpinioideae_. Nativa de América del Sur y Central, se cultiva frecuentemente como planta ornamental en jardines, parques y a lo largo de vías públicas debido a sus flores amarillas brillantes que florecen durante los meses de verano. Además de "casia amarilla", es conocida por otros nombres comunes, como "casia del noreste", "casia macranta", "fedegoso", "fedegoso del Río", "macrantera", "habú", "mwenu", "mhomba" o, en inglés, "scented shower".
+
+El árbol se caracteriza por un rápido crecimiento, alcanzando alturas entre 2 y 15 metros, con una copa frondosa y redondeada. Las hojas son compuestas, dispuestas de forma alterna, con 4 a 15 pares de foliolos que pueden alcanzar hasta 7,5 cm de longitud. Estas hojas exhiben un comportamiento conocido como nictinastia, cerrándose por la noche y abriéndose al amanecer.
+
+La floración ocurre entre marzo y abril, produciendo inflorescencias amarillas brillantes que miden entre 10 y 50 cm de longitud, cada flor con una corola de 3,5 a 4 cm de diámetro y cinco pétalos desiguales. Los frutos son vainas cilíndricas, que miden entre 16 y 30 cm de largo y 0,9 a 1,2 cm de ancho, que contienen numerosas semillas planas de color marrón.
+
+La _Cassia spectabilis_ se adapta a una variedad de suelos, incluyendo arcillosos, arenosos, limosos, ligeramente alcalinos y ácidos, e incluso suelos pobres. Requiere luz solar plena y suelo bien drenado para un crecimiento óptimo. Es una especie resistente a plagas y enfermedades, lo que contribuye a su popularidad como planta ornamental.
+
+Además de su uso ornamental, la _Cassia spectabilis_ posee propiedades medicinales. Se utiliza en el tratamiento de infecciones fúngicas, como la candidiasis, debido a su significativa actividad antifúngica. Estudios también indican que extractos de la planta presentan efectos anticonvulsivos, utilizándose en la medicina tradicional para tratar epilepsia, estreñimiento, insomnio y ansiedad.
+
+Sin embargo, es importante notar que, en algunas regiones, como partes de África y el sur de la India, la _Cassia spectabilis_ se ha convertido en una especie invasora. Introducida inicialmente para proporcionar leña y ayudar en la recuperación de ecosistemas degradados por la deforestación y la desertificación, la planta terminó suprimiendo especies nativas debido a su rápida tasa de crecimiento.
+
+En resumen, la _Cassia spectabilis_ es un árbol de gran valor ornamental y medicinal, apreciado por sus flores amarillas brillantes y su adaptabilidad a diversos ambientes. No obstante, es esencial gestionar su propagación de manera responsable para evitar impactos negativos en los ecosistemas locales.

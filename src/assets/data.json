@@ -1,0 +1,458 @@
+{
+  "app": {
+    "icons": {
+      "arvores": "assets/imgs/categoria/arvore.jpg",
+      "epifeta": "assets/imgs/categoria/epifeta.jpg",
+      "gramineas": "assets/imgs/categoria/grama.jpg"
+    },
+    "config": {
+      "wikipedia": {
+        "pt": "Ver no wikipedia",
+        "es": "Ver en Wikipedia",
+        "en": "See on Wikipedia"
+      }
+    }
+  },
+  "plantas": {
+    "cassia_spectabilis": {
+      "nome_cientifico": "Cassia spectabilis",
+      "categoria": "arvores",
+      "img": "assets/imgs/plantas/cassia_spectabilis.jpeg",
+      "pt": {
+        "nome_popular": "Cássia-amarela",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Cassia_spectabilis",
+        "descricao": "Árvore nativa do Brasil, conhecida por suas flores amarelas vibrantes e copa arredondada. Comumente utilizada como planta ornamental em jardins e vias públicas devido à sua beleza e rápido crescimento.  "
+      },
+      "es": {
+        "nome_popular": "Casia amarilla",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Senna_spectabilis",
+        "descricao": "Árbol nativo de Brasil, conocido por sus flores amarillas vibrantes y copa redondeada. Comúnmente utilizado como planta ornamental en jardines y vías públicas debido a su belleza y rápido crecimiento.  "
+      },
+      "en": {
+        "nome_popular": "Golden Shower Tree",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Senna_spectabilis",
+        "descricao": "Tree native to Brazil, known for its vibrant yellow flowers and rounded crown. Commonly used as an ornamental plant in gardens and public avenues due to its beauty and rapid growth.  "
+      }
+    },
+    "coffea_arabica": {
+      "nome_cientifico": "Coffea arabica",
+      "categoria": "arvores",
+      "img": "assets/imgs/plantas/coffea_arabica.jpeg",
+      "pt": {
+        "nome_popular": "Café",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Coffea_arabica",
+        "descricao": "Arbusto nativo da Etiópia ou Iémen, _Coffea arabica_ é a principal espécie cultivada para a produção de café. Suas sementes torradas originam a bebida apreciada mundialmente por seu sabor suave e aroma intenso.  "
+      },
+      "es": {
+        "nome_popular": "Café",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Coffea_arabica",
+        "descricao": "Arbusto nativo de Etiopía o Yemen, _Coffea arabica_ es la principal especie cultivada para la producción de café. Sus semillas tostadas originan la bebida apreciada mundialmente por su sabor suave y aroma intenso.  "
+      },
+      "en": {
+        "nome_popular": "Coffee",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Coffea_arabica",
+        "descricao": "Shrub native to Ethiopia or Yemen, _Coffea arabica_ is the main species cultivated for coffee production. Its roasted seeds yield the beverage appreciated worldwide for its mild flavor and intense aroma.  "
+      }
+    },
+    "dracaena_deremensis": {
+      "nome_cientifico": "Dracaena deremensis",
+      "categoria": "arvores",
+      "img": "assets/imgs/plantas/dracaena_deremensis.jpeg",
+      "pt": {
+        "nome_popular": "Dracena Verde e Branca",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Dracaena",
+        "descricao": "_Dracaena fragrans_, conhecida como Dracena Verde e Branca, é um arbusto tropical valorizado como planta ornamental de interior devido às suas folhas largas e brilhantes. Além de sua estética, contribui para a purificação do ar em ambientes internos.  "
+      },
+      "es": {
+        "nome_popular": "Drácena Verde y Blanca",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Dracaena_fragrans",
+        "descricao": "_Dracaena fragrans_, conocida como Drácena Verde y Blanca, es un arbusto tropical valorado como planta ornamental de interior por sus hojas anchas y brillantes. Además de su estética, contribuye a la purificación del aire en espacios interiores.  "
+      },
+      "en": {
+        "nome_popular": "White and Green Dracaena",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Dracaena_fragrans",
+        "descricao": "_Dracaena fragrans_, known as White and Green Dracaena, is a tropical shrub valued as an indoor ornamental plant for its broad, glossy leaves. Beyond its aesthetic appeal, it aids in indoor air purification.  "
+      }
+    },
+    "dracaena_fragrans": {
+      "nome_cientifico": "Dracaena fragrans",
+      "categoria": "arvores",
+      "img": "assets/imgs/plantas/dracaena_fragrans.jpeg",
+      "pt": {
+        "nome_popular": "Dracena",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Dracaena",
+        "descricao": "_Dracaena fragrans_, conhecida como Dracena, é uma planta tropical valorizada como ornamental de interior por suas folhas largas e brilhantes. Além de sua estética, contribui para a purificação do ar em ambientes internos.  "
+      },
+      "es": {
+        "nome_popular": "Drácena",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Dracaena_fragrans",
+        "descricao": "_Dracaena fragrans_, conocida como Drácena, es una planta tropical valorada como ornamental de interior por sus hojas anchas y brillantes. Además de su estética, contribuye a la purificación del aire en espacios interiores.  "
+      },
+      "en": {
+        "nome_popular": "Dracaena",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Dracaena_fragrans",
+        "descricao": "_Dracaena fragrans_, known as Dracaena, is a tropical plant valued as an indoor ornamental for its broad, glossy leaves. Beyond its aesthetic appeal, it aids in indoor air purification.  "
+      }
+    },
+    "dracaena_trifasciata": {
+      "nome_cientifico": "Dracaena trifasciata",
+      "categoria": "gramineas",
+      "img": "",
+      "pt": {
+        "nome_popular": "Espada-de-São-Jorge",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Dracaena_trifasciata",
+        "descricao": "_Dracaena trifasciata_, conhecida como Espada-de-São-Jorge, é uma planta herbácea perene originária da África tropical. Apresenta folhas eretas e rígidas com padrões verdes e cinza. Popular como planta ornamental de interior devido à sua resistência e capacidade de purificar o ar.  "
+      },
+      "es": {
+        "nome_popular": "Espada de San Jorge",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Sansevieria_trifasciata",
+        "descricao": "_Dracaena trifasciata_, conocida como Espada de San Jorge, es una planta herbácea perenne originaria de África tropical. Presenta hojas erectas y rígidas con patrones verdes y grises. Popular como planta ornamental de interior debido a su resistencia y capacidad para purificar el aire.  "
+      },
+      "en": {
+        "nome_popular": "Snake Plant",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Dracaena_trifasciata",
+        "descricao": "_Dracaena trifasciata_, known as Snake Plant, is a perennial herbaceous plant native to tropical Africa. It features upright, rigid leaves with green and gray patterns. Popular as an indoor ornamental plant due to its resilience and air-purifying abilities.  "
+      }
+    },
+    "eriobotrya_japonica": {
+      "nome_cientifico": "Eriobotrya japonica",
+      "categoria": "arvores",
+      "img": "assets/imgs/plantas/eriobotrya_japonica.jpeg",
+      "pt": {
+        "nome_popular": "Nespera",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Nespereira",
+        "descricao": "Árvore perene de pequeno porte, originária do sudeste da China, com copa arredondada e folhas verde-escuras. Seus frutos amarelos ou alaranjados são suculentos e doces, consumidos frescos ou em compotas. Também é cultivada como planta ornamental.  "
+      },
+      "es": {
+        "nome_popular": "Níspero japonés",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Eriobotrya_japonica",
+        "descricao": "Árbol perenne de pequeño tamaño, originario del sureste de China, con copa redondeada y hojas de color verde oscuro. Sus frutos amarillos o anaranjados son jugosos y dulces, consumidos frescos o en compotas. También se cultiva como planta ornamental.  "
+      },
+      "en": {
+        "nome_popular": "Loquat",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Loquat",
+        "descricao": "Small evergreen tree native to southeastern China, featuring a rounded canopy and dark green leaves. Its yellow or orange fruits are juicy and sweet, consumed fresh or in preserves. Also cultivated as an ornamental plant.  "
+      }
+    },
+    "eugenia_uniflora": {
+      "nome_cientifico": "Eugenia uniflora",
+      "categoria": "arvores",
+      "img": "",
+      "pt": {
+        "nome_popular": "Pitanga",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Pitanga",
+        "descricao": "Arbusto ou árvore pequena nativa da América do Sul, com folhas brilhantes e frutos globosos de cor vermelha, laranja ou preta. Seus frutos suculentos e doces são consumidos frescos ou em geleias. Cultivada também como planta ornamental e utilizada em cercas vivas.  "
+      },
+      "es": {
+        "nome_popular": "Pitanga",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Eugenia_uniflora",
+        "descricao": "Arbusto o árbol pequeño nativo de América del Sur, con hojas brillantes y frutos globosos de color rojo, naranja o negro. Sus frutos jugosos y dulces se consumen frescos o en mermeladas. También se cultiva como planta ornamental y se utiliza en setos vivos.  "
+      },
+      "en": {
+        "nome_popular": "Surinam Cherry",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Eugenia_uniflora",
+        "descricao": "Shrub or small tree native to South America, with glossy leaves and globose fruits in red, orange, or black. Its juicy and sweet fruits are consumed fresh or in jams. Also cultivated as an ornamental plant and used in hedges.  "
+      }
+    },
+    "handroanthus_albus": {
+      "nome_cientifico": "Handroanthus albus",
+      "categoria": "arvores",
+      "img": "",
+      "pt": {
+        "nome_popular": "Ipê Amarelo",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Handroanthus_albus",
+        "descricao": "Árvore nativa do Brasil, destaca-se por suas flores amarelas vibrantes e madeira densa e resistente. Usada como planta ornamental em vias públicas.  "
+      },
+      "es": {
+        "nome_popular": "lapacho amarillo",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Handroanthus_albus",
+        "descricao": "Árbol nativo de Brasil, destaca por sus flores amarillas vibrantes y madera densa y resistente. Utilizado como planta ornamental en vías públicas.  "
+      },
+      "en": {
+        "nome_popular": "Golden Trumpet Tree",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Handroanthus_albus",
+        "descricao": "Tree native to Brazil, known for its vibrant yellow flowers and dense, durable wood. Commonly used as an ornamental plant along streets.  "
+      }
+    },
+    "handroanthus_heptaphyllus": {
+      "nome_cientifico": "Handroanthus heptaphyllus",
+      "categoria": "arvores",
+      "img": "",
+      "pt": {
+        "nome_popular": "Ipê Rosa",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Handroanthus_heptaphyllus",
+        "descricao": "Árvore nativa da América do Sul, notável por suas flores tubulares rosa que surgem antes da folhagem. Sua madeira é dura e resistente, utilizada na construção civil e marcenaria. Comum em parques e vias públicas devido à sua beleza ornamental.  "
+      },
+      "es": {
+        "nome_popular": "lapacho negro",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Handroanthus_heptaphyllus",
+        "descricao": "Árbol nativo de América del Sur, notable por sus flores tubulares rosadas que aparecen antes del follaje. Su madera es dura y resistente, utilizada en construcción y carpintería. Común en parques y vías públicas debido a su belleza ornamental.  "
+      },
+      "en": {
+        "nome_popular": "Pink Trumpet Tree",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Handroanthus_heptaphyllus",
+        "descricao": "Tree native to South America, notable for its pink tubular flowers that appear before the foliage. Its wood is hard and durable, used in construction and carpentry. Common in parks and public roads due to its ornamental beauty.  "
+      }
+    },
+    "handroanthus_impetiginosus": {
+      "nome_cientifico": "Handroanthus impetiginosus",
+      "categoria": "arvores",
+      "img": "",
+      "pt": {
+        "nome_popular": "Handroanthus albus",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Handroanthus_impetiginosus",
+        "descricao": "Árvore nativa da América do Sul, conhecida por suas flores tubulares rosa que florescem antes das folhas. Sua madeira é densa e resistente, utilizada na construção civil. A casca é usada na medicina tradicional para infusões. Comum em paisagismo urbano.  "
+      },
+      "es": {
+        "nome_popular": "Lapacho Rosado",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Handroanthus_impetiginosus",
+        "descricao": "Árbol nativo de América del Sur, conocido por sus flores tubulares rosadas que florecen antes de las hojas. Su madera es densa y resistente, utilizada en la construcción. La corteza se utiliza en la medicina tradicional para infusiones. Común en paisajismo urbano.  "
+      },
+      "en": {
+        "nome_popular": "Trumpet Tree",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Handroanthus_impetiginosus",
+        "descricao": "Tree native to South America, known for its tubular pink flowers that bloom before the leaves. Its wood is dense and durable, used in construction. The bark is used in traditional medicine for infusions. Common in urban landscaping.  "
+      }
+    },
+    "heliconia_rostrata": {
+      "nome_cientifico": "Heliconia rostrata",
+      "categoria": "epifetas",
+      "img": "assets/imgs/plantas/heliconia_rostrata.jpeg",
+      "pt": {
+        "nome_popular": "Helicônia",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Helic%C3%B4nia",
+        "descricao": "Planta herbácea perene nativa da América Central e do Sul, conhecida por suas inflorescências pendentes com brácteas vermelhas brilhantes e pontas amarelas. Suas flores fornecem néctar para beija-flores. Amplamente cultivada como ornamental em jardins tropicais.  "
+      },
+      "es": {
+        "nome_popular": "Platanillo",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Heliconia_rostrata",
+        "descricao": "Planta herbácea perenne nativa de América Central y del Sur, conocida por sus inflorescencias colgantes con brácteas rojas brillantes y puntas amarillas. Sus flores proporcionan néctar a los colibríes. Ampliamente cultivada como ornamental en jardines tropicales.  "
+      },
+      "en": {
+        "nome_popular": "",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Heliconia_rostrata",
+        "descricao": "Perennial herbaceous plant native to Central and South America, known for its pendulous inflorescences with bright red bracts and yellow tips. Its flowers provide nectar for hummingbirds. Widely cultivated as an ornamental in tropical gardens.  "
+      }
+    },
+    "malpighia_emarginata": {
+      "nome_cientifico": "Malpighia emarginata",
+      "categoria": "arvores",
+      "img": "",
+      "pt": {
+        "nome_popular": "Acerola",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Acerola",
+        "descricao": "Arbusto ou pequena árvore nativa das Américas Central e do Sul, conhecida por seus frutos vermelhos, suculentos e ricos em vitamina C, consumidos frescos ou em sucos. Sua folhagem densa e flores rosadas a tornam popular como planta ornamental.  "
+      },
+      "es": {
+        "nome_popular": "Acerola",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Malpighia_emarginata",
+        "descricao": "Arbusto o pequeño árbol nativo de América Central y del Sur, conocido por sus frutos rojos, jugosos y ricos en vitamina C, consumidos frescos o en jugos. Su follaje denso y flores rosadas la hacen popular como planta ornamental.  "
+      },
+      "en": {
+        "nome_popular": "Guarani cherry",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Malpighia_emarginata",
+        "descricao": "Shrub or small tree native to Central and South America, known for its red, juicy fruits rich in vitamin C, consumed fresh or in juices. Its dense foliage and pink flowers make it popular as an ornamental plant.  "
+      }
+    },
+    "musa_acuminata": {
+      "nome_cientifico": "Musa acuminata",
+      "categoria": "gramineas",
+      "img": "",
+      "pt": {
+        "nome_popular": "Banana Nanica",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Musa_acuminata",
+        "descricao": "Planta herbácea perene nativa do sudeste asiático, conhecida por suas folhas largas e frutos alongados sem sementes. Cultivada globalmente, é a principal fonte das bananas de sobremesa modernas.  "
+      },
+      "es": {
+        "nome_popular": "Plátano malayo",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Musa_acuminata",
+        "descricao": "Planta herbácea perenne nativa del sudeste asiático, conocida por sus hojas anchas y frutos alargados sin semillas. Cultivada globalmente, es la principal fuente de los plátanos de postre modernos.  "
+      },
+      "en": {
+        "nome_popular": "Banana",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Musa_acuminata",
+        "descricao": "Perennial herbaceous plant native to Southeast Asia, known for its broad leaves and elongated seedless fruits. Globally cultivated, it is the primary source of modern dessert bananas.  "
+      }
+    },
+    "musa_balbisiana": {
+      "nome_cientifico": "Musa balbisiana",
+      "categoria": "gramineas",
+      "img": "",
+      "pt": {
+        "nome_popular": "Banana Prata",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Bananeira",
+        "descricao": "Planta herbácea perene nativa do sudeste asiático, com folhas largas e inflorescências de coloração vermelha a bordô. Seus frutos contêm numerosas sementes e são considerados não comestíveis. É um dos ancestrais das bananas cultivadas atualmente.  "
+      },
+      "es": {
+        "nome_popular": "Plátano rosado",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Musa_balbisiana",
+        "descricao": "Planta herbácea perenne nativa del sudeste asiático, con hojas anchas e inflorescencias de color rojo a burdeos. Sus frutos contienen numerosas semillas y se consideran no comestibles. Es uno de los ancestros de las bananas cultivadas actualmente.  "
+      },
+      "en": {
+        "nome_popular": "Plantain",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Musa_balbisiana",
+        "descricao": "Perennial herbaceous plant native to Southeast Asia, with broad leaves and inflorescences ranging from red to maroon. Its fruits contain numerous seeds and are considered inedible. It is one of the ancestors of bananas cultivated today.  "
+      }
+    },
+    "neomarica_caerulea": {
+      "nome_cientifico": "Neomarica caerulea",
+      "categoria": "epifetas",
+      "img": "assets/imgs/plantas/neomarica_caerulea.jpeg",
+      "pt": {
+        "nome_popular": "Falsa-íris",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Neomarica",
+        "descricao": "Planta herbácea perene nativa do Brasil, apreciada por suas folhas longas e arqueadas e flores azul-arroxeadas que florescem brevemente na primavera e verão. Amplamente utilizada como ornamental em jardins e bordaduras devido à sua beleza exótica.  "
+      },
+      "es": {
+        "nome_popular": "Neomarica",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Neomarica",
+        "descricao": "Planta herbácea perenne nativa de Brasil, apreciada por sus hojas largas y arqueadas y flores azul-púrpura que florecen brevemente en primavera y verano. Ampliamente utilizada como ornamental en jardines y bordes debido a su belleza exótica.  "
+      },
+      "en": {
+        "nome_popular": "Trimezia",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Trimezia",
+        "descricao": "Perennial herbaceous plant native to Brazil, valued for its long, arching leaves and blue-purple flowers that bloom briefly in spring and summer. Widely used as an ornamental in gardens and borders due to its exotic beauty.  "
+      }
+    },
+    "paubrasilia_echinata": {
+      "nome_cientifico": "Paubrasilia echinata",
+      "categoria": "arvores",
+      "img": "assets/imgs/plantas/paubrasilia_echinata.jpeg",
+      "pt": {
+        "nome_popular": "Pau-brasil",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Paubrasilia_echinata",
+        "descricao": "O pau-brasil (_Paubrasilia echinata_) é uma árvore nativa da Mata Atlântica brasileira, com madeira densa de cor vermelho-alaranjada, utilizada historicamente para extração de corante e na fabricação de arcos para instrumentos de corda. Suas flores amarelas perfumadas destacam-se na paisagem. É a árvore nacional do Brasil.  "
+      },
+      "es": {
+        "nome_popular": "Palo de Brasil",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Paubrasilia_echinata",
+        "descricao": "El palo brasil (_Paubrasilia echinata_) es un árbol nativo de la Mata Atlántica brasileña, con madera densa de color rojo anaranjado, utilizada históricamente para la extracción de colorante y en la fabricación de arcos para instrumentos de cuerda. Sus flores amarillas perfumadas destacan en el paisaje. Es el árbol nacional de Brasil.  "
+      },
+      "en": {
+        "nome_popular": "Brazilwood",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Paubrasilia",
+        "descricao": "The brazilwood (_Paubrasilia echinata_) is a tree native to the Brazilian Atlantic Forest, with dense reddish-orange wood historically used for dye extraction and in the manufacture of bows for string instruments. Its fragrant yellow flowers stand out in the landscape. It is the national tree of Brazil.  "
+      }
+    },
+    "plectranthus_barbatus": {
+      "nome_cientifico": "Plectranthus barbatus",
+      "categoria": "arvores",
+      "img": "assets/imgs/plantas/plectranthus_barbatus.jpeg",
+      "pt": {
+        "nome_popular": "Boldo Brasileiro",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Plectranthus_barbatus",
+        "descricao": "Arbusto perene tropical conhecido como boldo-brasileiro, com folhas aveludadas e flores azul-arroxeadas. Utilizado na medicina tradicional como digestivo e hepatoprotetor. Também cultivado como planta ornamental em regiões tropicais e subtropicais.  "
+      },
+      "es": {
+        "nome_popular": "Boldo brasileño",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Plectranthus_barbatus",
+        "descricao": "Arbusto perenne tropical conocido como boldo brasileño, con hojas aterciopeladas y flores azul-púrpura. Utilizado en la medicina tradicional como digestivo y hepatoprotector. También cultivado como planta ornamental en regiones tropicales y subtropicales.  "
+      },
+      "en": {
+        "nome_popular": "Woolly Plectranthus",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Coleus_barbatus",
+        "descricao": "Tropical perennial shrub known as Brazilian boldo, with velvety leaves and blue-purple flowers. Used in traditional medicine as a digestive aid and hepatoprotector. Also cultivated as an ornamental plant in tropical and subtropical regions.  "
+      }
+    },
+    "psidium_guajava": {
+      "nome_cientifico": "Psidium guajava",
+      "categoria": "arvores",
+      "img": "",
+      "pt": {
+        "nome_popular": "Goiaba Branca",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Goiabeira",
+        "descricao": "Árvore tropical perene conhecida como goiabeira, com casca lisa e frutos aromáticos de polpa doce, amplamente utilizada na culinária para sucos, doces e geleias. Suas folhas são empregadas na medicina tradicional. Cultivada em regiões tropicais e subtropicais.  "
+      },
+      "es": {
+        "nome_popular": "Guayaba Blanca",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Psidium_guajava",
+        "descricao": "Árbol tropical perenne conocido como guayabo, con corteza lisa y frutos aromáticos de pulpa dulce, ampliamente utilizado en la cocina para jugos, dulces y mermeladas. Sus hojas se emplean en la medicina tradicional. Cultivado en regiones tropicales y subtropicales.  "
+      },
+      "en": {
+        "nome_popular": "White Guava",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Psidium_guajava",
+        "descricao": "Tropical evergreen tree known as guava tree, with smooth bark and aromatic sweet-fleshed fruits, widely used in cuisine for juices, sweets, and jams. Its leaves are used in traditional medicine. Cultivated in tropical and subtropical regions.  "
+      }
+    },
+    "roystonea_oleracea": {
+      "nome_cientifico": "Roystonea oleracea",
+      "categoria": "arvores",
+      "img": "assets/imgs/plantas/roystonea_oleracea.jpeg",
+      "pt": {
+        "nome_popular": "Palmeira-imperial",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Palmeira-imperial",
+        "descricao": "Palmeira-imperial é uma palmeira de grande porte, originária das Antilhas Menores, Venezuela e Colômbia. Destaca-se por seu tronco cinza liso e folhas pinadas arqueadas. Muito apreciada como planta ornamental em regiões tropicais e subtropicais.  "
+      },
+      "es": {
+        "nome_popular": "Palma real",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Roystonea_oleracea",
+        "descricao": "La palma real es una palmera de gran tamaño, originaria de las Antillas Menores, Venezuela y Colombia. Se destaca por su tronco gris liso y hojas pinnadas arqueadas. Muy apreciada como planta ornamental en regiones tropicales y subtropicales.  "
+      },
+      "en": {
+        "nome_popular": "Royal palm",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Roystonea_oleracea",
+        "descricao": "The royal palm is a large palm tree native to the Lesser Antilles, Venezuela, and Colombia. It is notable for its smooth gray trunk and arching pinnate leaves. Highly valued as an ornamental plant in tropical and subtropical regions.  "
+      }
+    },
+    "saccharum_officinarum": {
+      "nome_cientifico": "Saccharum officinarum",
+      "categoria": "gramineas",
+      "img": "",
+      "pt": {
+        "nome_popular": "Cana-de-açúcar ",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Saccharum_officinarum",
+        "descricao": "A cana-de-açúcar é uma gramínea perene de grande porte, originária da Nova Guiné, com caules robustos ricos em sacarose. Amplamente cultivada em regiões tropicais e subtropicais para a produção de açúcar, etanol e outros produtos. Suas folhas são longas e lineares, e a planta possui inflorescências em forma de panícula.  "
+      },
+      "es": {
+        "nome_popular": "Caña de azúcar",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Saccharum_officinarum",
+        "descricao": "La caña de azúcar es una gramínea perenne de gran tamaño, originaria de Nueva Guinea, con tallos robustos ricos en sacarosa. Ampliamente cultivada en regiones tropicales y subtropicales para la producción de azúcar, etanol y otros productos. Sus hojas son largas y lineales, y la planta presenta inflorescencias en forma de panícula.  "
+      },
+      "en": {
+        "nome_popular": "Sugarcane",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Saccharum_officinarum",
+        "descricao": "Sugarcane is a large perennial grass native to New Guinea, featuring robust stalks rich in sucrose. Widely cultivated in tropical and subtropical regions for the production of sugar, ethanol, and other products. It has long, linear leaves and produces panicle-shaped inflorescences.  "
+      }
+    },
+    "schefflera_arboricola": {
+      "nome_cientifico": "Schefflera arboricola",
+      "categoria": "arvores",
+      "img": "assets/imgs/plantas/schefflera_arboricola.jpeg",
+      "pt": {
+        "nome_popular": "Cheflera",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Schefflera_arboricola",
+        "descricao": "A cheflera (_Schefflera arboricola_) é uma planta perene nativa de Taiwan e Hainan, conhecida por suas folhas brilhantes compostas por 7 a 9 folíolos. Popular como planta ornamental em ambientes internos e externos, é valorizada por sua adaptabilidade e estética atraente.  "
+      },
+      "es": {
+        "nome_popular": "Cheflera",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Schefflera_arboricola",
+        "descricao": "La cheflera (_Schefflera arboricola_) es una planta perenne nativa de Taiwán y Hainan, conocida por sus hojas brillantes compuestas por 7 a 9 foliolos. Popular como planta ornamental en interiores y exteriores, es valorada por su adaptabilidad y estética atractiva.  "
+      },
+      "en": {
+        "nome_popular": "Umbrella Tree",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Heptapleurum_arboricola",
+        "descricao": "The umbrella tree (_Schefflera arboricola_) is a perennial plant native to Taiwan and Hainan, known for its glossy leaves composed of 7 to 9 leaflets. Popular as an ornamental plant indoors and outdoors, it is valued for its adaptability and attractive appearance.  "
+      }
+    },
+    "theobroma_cacao": {
+      "nome_cientifico": "Theobroma cacao",
+      "categoria": "arvores",
+      "img": "",
+      "pt": {
+        "nome_popular": "Cacau",
+        "link_wikipedia": "https://pt.wikipedia.org/wiki/Cacau",
+        "descricao": "O cacaueiro (_Theobroma cacao_) é uma pequena árvore perene nativa das regiões tropicais das Américas. Suas sementes, conhecidas como grãos de cacau, são utilizadas para produzir chocolate, cacau em pó e manteiga de cacau. A árvore possui folhas alternadas e frutos oblongos que contêm polpa doce e sementes. É cultivada principalmente em países como Costa do Marfim, Gana e Brasil.  "
+      },
+      "es": {
+        "nome_popular": "Cacao",
+        "link_wikipedia": "https://es.wikipedia.org/wiki/Theobroma_cacao",
+        "descricao": "El árbol del cacao (_Theobroma cacao_) es un pequeño árbol perenne nativo de las regiones tropicales de las Américas. Sus semillas, conocidas como granos de cacao, se utilizan para producir chocolate, cacao en polvo y manteca de cacao. El árbol tiene hojas alternas y frutos oblongos que contienen pulpa dulce y semillas. Se cultiva principalmente en países como Costa de Marfil, Ghana y Brasil.  "
+      },
+      "en": {
+        "nome_popular": "Cocoa Tree",
+        "link_wikipedia": "https://en.wikipedia.org/wiki/Theobroma_cacao",
+        "descricao": "The cacao tree (_Theobroma cacao_) is a small evergreen tree native to the tropical regions of the Americas. Its seeds, known as cocoa beans, are used to produce chocolate, cocoa powder, and cocoa butter. The tree has alternate leaves and oblong fruits containing sweet pulp and seeds. It is primarily cultivated in countries such as Ivory Coast, Ghana, and Brazil.  "
+      }
+    }
+  }
+}

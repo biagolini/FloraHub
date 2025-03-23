@@ -1,0 +1,15 @@
+_Musa balbisiana_ é uma espécie de banana silvestre nativa do sudeste asiático, incluindo regiões como China, Índia, Sri Lanka, Nepal e Mianmar. Esta espécie é um dos principais progenitores das bananas cultivadas atualmente, tendo desempenhado um papel essencial no desenvolvimento de muitas variedades comestíveis.
+
+A planta é uma herbácea perene de grande porte, podendo atingir até seis metros de altura. Apresenta pseudocaules robustos formados por bainhas foliares compactadas. Suas folhas são grandes, de formato oblongo a elíptico, e podem crescer até três metros de comprimento e 60 centímetros de largura. Tipicamente verdes, possuem uma superfície cerosa e estão dispostas em espiral ao redor do pseudocaule.
+
+_Musa balbisiana_ produz inflorescências pendentes, com brácteas que variam do vermelho ao bordô. Suas flores são tubulares, de coloração branca a amarelo-claro, ricas em néctar e organizadas em cachos ao longo do eixo floral. As flores femininas localizam-se na parte inferior da inflorescência e desenvolvem-se em frutos, enquanto as masculinas situam-se na parte superior.
+
+O fruto é uma baga linear ou levemente curva, medindo entre 7 e 10 centímetros de comprimento e cerca de 2 a 3 centímetros de diâmetro. Possui uma casca espessa e coriácea, que é verde quando imatura e torna-se amarela ao amadurecer. Sua polpa é branca, rica em amido e contém numerosas sementes duras e pretas, com cerca de 4 a 6 milímetros de diâmetro. Devido ao alto teor de sementes e à pouca quantidade de polpa comestível, os frutos da _Musa balbisiana_ são geralmente considerados não comestíveis.
+
+Apesar disso, a _Musa balbisiana_ desempenhou um papel fundamental no desenvolvimento de muitas variedades de bananas cultivadas. Através da hibridização natural com a _Musa acuminata_, contribuiu para a formação genética de diversas cultivares comestíveis. Esses híbridos geralmente apresentam características desejáveis, como ausência de sementes, melhor sabor e maior resistência a fatores ambientais adversos.
+
+Além de sua importância agrícola, _Musa balbisiana_ tem diversos usos práticos. Em regiões onde cresce, suas folhas são utilizadas para envolver alimentos, confeccionar recipientes e servir como pratos naturais. As fibras extraídas do pseudocaule são empregadas na fabricação de cordas, esteiras e tecidos tradicionais.
+
+Culturalmente, a _Musa balbisiana_ tem significados simbólicos em algumas tradições. Na cultura tailandesa, por exemplo, acredita-se que um espírito chamado Nang Tani habita essa espécie de bananeira. Esse espírito, representado como uma jovem mulher, faz com que as pessoas amarrem um pedaço de tecido de cetim em torno do tronco da planta como sinal de respeito.
+
+Em resumo, apesar de seus frutos serem considerados não comestíveis devido ao alto teor de sementes, a _Musa balbisiana_ teve um impacto profundo na agricultura, contribuindo diretamente para o desenvolvimento das variedades modernas de bananas sem sementes que são amplamente consumidas no mundo todo.

@@ -1,0 +1,38 @@
+<div *ngIf="plant" class="plant-detail">
+  <h2>{{ plant.nome_cientifico }}</h2>
+
+  <img [src]="plant.img" [alt]="plant.nome_cientifico" />
+
+  <div *ngFor="let language of sortedLanguages" class="language-section">
+    <h3>{{ language.data.nome_popular }} ({{ language.id.toUpperCase() }})</h3>
+
+    <markdown *ngIf="language.data.descricaoEstendida">
+      {{ language.data.descricaoEstendida }}
+    </markdown>
+
+    <audio
+      *ngIf="language.data.hasAudio"
+      #audioPlayers
+      controls
+      [src]="'assets/audios/' + language.id + '/' + plantKey + '.mp3'"
+      matTooltip="{{ 'CATALOG_DETAILS.LISTEN' | translate }}"
+      (play)="pauseOtherAudios($event)"
+    ></audio>
+
+    <a mat-button [href]="language.data.link_wikipedia" target="_blank">
+      {{ getWikipediaLabel(language.id) }}
+    </a>
+
+    <hr *ngIf="language !== sortedLanguages[sortedLanguages.length - 1]" />
+  </div>
+</div>
+
+<div class="end_page_button" routerLink="/">
+  <span
+    class="material-symbols-outlined"
+    matTooltip="{{ 'CATALOG_DETAILS.BACK' | translate }}"
+  >
+    arrow_back
+  </span>
+  <span class="end_page_text">{{ "CATALOG_DETAILS.BACK" | translate }}</span>
+</div>

@@ -1,0 +1,60 @@
+<div class="catalog-container">
+  <mat-card
+    class="plant-card"
+    *ngFor="let plant of plants"
+    appearance="outlined"
+  >
+    <mat-card-header>
+      <div
+        mat-card-avatar
+        class="category-icon"
+        [ngStyle]="{
+          'background-image':
+            'url(' +
+            (icons[plant.categoria] || 'assets/imgs/categoria/arvore.jpg') +
+            ')'
+        }"
+      ></div>
+      <mat-card-title>
+        {{ plant[currentLanguage]?.nome_popular || "Name not available" }}
+      </mat-card-title>
+
+      <mat-card-subtitle>{{ plant.nome_cientifico }}</mat-card-subtitle>
+    </mat-card-header>
+
+    <img
+      mat-card-image
+      [src]="plant.img || 'assets/imgs/plantas/imagem_indisponivel.jpg'"
+      [alt]="'Image of ' + (plant[currentLanguage]?.nome_popular || 'Plant')"
+    />
+
+    <mat-card-content>
+      <!-- Wrapped Markdown in a div with a class for styling -->
+      <div class="markdown-content" *ngIf="markdownVisible">
+        <markdown>
+          {{ plant[currentLanguage]?.descricao || "Description not available" }}
+        </markdown>
+      </div>
+    </mat-card-content>
+
+    <mat-card-actions>
+      <a
+        mat-button
+        [routerLink]="['/', plant.key]"
+        aria-label="'More information about ' + (plant[currentLanguage]?.nome_popular || 'Plant')"
+      >
+        {{ "CATALOG_PANEL.LEARN_MORE" | translate }}
+      </a>
+    </mat-card-actions>
+  </mat-card>
+</div>
+
+<div class="end_page_button" routerLink="/sobre">
+  <span
+    class="material-symbols-outlined"
+    matTooltip="{{ 'CATALOG_PANEL.ABOUT' | translate }}"
+  >
+    contact_support
+  </span>
+  <span class="end_page_text">{{ "CATALOG_PANEL.ABOUT" | translate }}</span>
+</div>

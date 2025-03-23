@@ -1,0 +1,54 @@
+.plant-detail {
+  text-align: center;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+
+  h1, h2 {
+    text-align: center;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 10px;
+  }
+
+  markdown {
+    text-align: justify;
+    line-height: 1.8;
+    font-size: 1.1rem;
+    margin-bottom: 16px;
+    white-space: pre-wrap;
+    word-break: break-word; 
+    padding: 5px;
+    text-indent: 0;
+  }
+
+  a {
+    display: inline-block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+}
+
+h3 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+audio {
+  width: 100%;
+  margin-top: 10px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #ddd;
+  margin: 20px 0;
+}
+

@@ -1,0 +1,17 @@
+_Handroanthus heptaphyllus_, comúnmente conocido como el árbol de trompeta rosada o tabebuia rosada, es un árbol caducifolio perteneciente a la familia Bignoniaceae. Nativo de regiones tropicales y subtropicales de América del Sur, prospera en áreas como la cuenca del río Paraná, así como en partes de Paraguay, Bolivia y Argentina. Esta especie es muy apreciada por sus llamativas flores rosadas y su madera robusta.
+
+Típicamente, el árbol de trompeta rosada alcanza alturas de 10 a 30 metros, presentando un tronco recto y cilíndrico que puede medir entre 40 y 140 centímetros de diámetro. La corteza es de color gris parduzco y se vuelve profundamente fisurada a medida que el árbol madura. Su copa es escasa y globosa, permitiendo que la luz solar filtrada pase a través de ella.
+
+Las hojas son compuestas palmeadas, generalmente compuestas por cinco a siete folíolos elípticos, cada uno de aproximadamente 10 a 15 centímetros de largo, con márgenes serrados. El árbol es semi-caducifolio, perdiendo sus hojas brevemente durante la estación seca.
+
+La floración ocurre en primavera, a menudo antes de que emerjan las nuevas hojas, lo que resulta en una espectacular exhibición de flores en forma de trompeta, de color rosa a púrpura rosado. Estas flores miden alrededor de 5 centímetros de ancho y están dispuestas en panículas terminales, lo que hace que el árbol sea altamente ornamental.
+
+Después del período de floración, el árbol produce vainas de semillas alargadas y marrones que pueden alcanzar hasta 30 a 40 centímetros de largo y alrededor de 1 a 1.5 centímetros de ancho. Estas vainas contienen numerosas semillas aladas, lo que facilita su dispersión por el viento.
+
+La madera de _Handroanthus heptaphyllus_ es notablemente dura y pesada, con una clara distinción entre el duramen más oscuro y la albura más clara. Es altamente resistente a la intemperie y a las plagas, lo que la hace valiosa para diversas aplicaciones, incluyendo la construcción de barcos, muelles, plataformas de camiones, vigas, travesaños, escaleras, pisos y torneado de madera.
+
+En entornos urbanos, el árbol de trompeta rosada se planta a menudo como especie decorativa en parques, plazas y a lo largo de calles, debido a su atractivo despliegue floral y la ligera sombra que proporciona. Su adaptabilidad a diferentes tipos de suelo y resistencia a la sequía mejoran aún más su idoneidad para fines paisajísticos.
+
+Culturalmente, el árbol de trompeta rosada tiene una importancia significativa en Paraguay, donde es reconocido como el árbol nacional. Sus vibrantes flores y su madera duradera lo han convertido en un símbolo de resistencia y belleza en la región.
+
+En resumen, _Handroanthus heptaphyllus_ es un árbol visualmente impresionante y culturalmente significativo, valorado por su atractivo ornamental y su madera duradera, lo que lo convierte en una opción popular tanto en paisajes naturales como urbanos.

@@ -1,0 +1,17 @@
+_Eriobotrya japonica_, comúnmente conocido como níspero japonés, es un pequeño árbol perenne o arbusto grande perteneciente a la familia de las rosáceas. Originario del sureste de China, se ha cultivado en Japón durante más de un milenio y se ha naturalizado en regiones como India, la cuenca mediterránea, las Islas Canarias, Pakistán, Chile y Argentina.
+
+El níspero generalmente alcanza una altura de 5 a 10 metros (16 a 33 pies) con una copa redondeada. Sus hojas son grandes, miden entre 10 y 25 centímetros (4 a 10 pulgadas) de largo, de color verde oscuro, coriáceas y tienen un margen dentado. La superficie superior de las hojas es brillante, mientras que la parte inferior está cubierta de finos pelos de color óxido.
+
+La floración ocurre en otoño o a principios de invierno. Las flores son pequeñas, blancas y fragantes, dispuestas en panículas terminales densas. Este tiempo de floración inusual permite que el fruto se desarrolle durante los meses más fríos, madurando a finales de invierno o principios de primavera.
+
+El fruto es un pomo, ovalado, redondeado o en forma de pera, que mide de 2 a 5 centímetros (0.8 a 2 pulgadas) de largo. Cuando está maduro, la piel es lisa y varía de amarillo a naranja. La pulpa es suculenta, de sabor ácido a dulce, y varía en color de blanco a naranja, dependiendo del cultivar. Cada fruto contiene una o varias semillas grandes y marrones.
+
+Los nísperos se consumen frescos y también se utilizan en mermeladas, jaleas y tartas. En algunas culturas, se fermentan para producir bebidas alcohólicas. La fruta es rica en vitaminas A, B6, C, fibra dietética, potasio y manganeso, ofreciendo diversos beneficios para la salud.
+
+En la medicina tradicional, las hojas de níspero se han utilizado para tratar afecciones respiratorias. Contienen compuestos que se cree que tienen propiedades antiinflamatorias y antioxidantes.
+
+El cultivo del níspero requiere un clima subtropical a templado suave. El árbol prefiere suelos bien drenados y es relativamente tolerante a la sequía una vez establecido. También se cultiva como planta ornamental debido a su atractivo follaje y flores.
+
+Sin embargo, el níspero es susceptible a ciertas plagas y enfermedades, incluyendo el fuego bacteriano, una infección bacteriana que puede causar daños significativos. El monitoreo regular y las prácticas de manejo adecuadas son esenciales para mantener la salud del árbol.
+
+La combinación del atractivo estético del níspero y su fruto comestible lo convierte en una valiosa adición a jardines y huertos en climas adecuados.

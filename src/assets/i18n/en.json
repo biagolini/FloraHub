@@ -1,0 +1,29 @@
+{
+  "GENERAL": {
+    "CURRENT_LANGUAGE": "English",
+    "CLOSE": "Close"
+  },
+  "MENU": {
+    "OPEN_PANEL": "Open panel",
+    "CLOSE_PANEL": "Close panel",
+    "HOME": "Back to the plant species list",
+    "CHANGE_LANGUAGE": "Change language",
+    "CHANGE_THEME": "Change theme",
+    "DARK_MODE": "Dark mode",
+    "LIGHT_MODE": "Light mode",
+    "SETTINGS": "Settings",
+    "LOGOUT": "Logout"
+  },
+  "PAGE_NOT_FOUND": {
+    "WARNING": "Page not found"
+  },
+  "CATALOG_PANEL": {
+    "LEARN_MORE": "Learn more...",
+    "ABOUT": "About this project"
+  },
+  "CATALOG_DETAILS": {
+    "LISTEN": "Click to listen",
+    "SEE_WIKIPEDIA": "View on Wikipedia",
+    "BACK": "Go to the full plant catalog"
+  }
+}

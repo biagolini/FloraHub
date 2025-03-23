@@ -1,0 +1,44 @@
+@import "/src/variables.scss";
+
+.not-found-container {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f9f9f7; /* Cor de fundo para áreas não cobertas pela imagem */
+  overflow: hidden; /* Garante que nada vaze fora dos limites do container */
+}
+
+.background-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  opacity: 0.3; 
+  z-index: 1; 
+}
+
+.text-overlay {
+  position: relative;
+  z-index: 2; 
+  text-align: center;
+  background: rgba(214, 215, 217, 0.5); 
+  padding: 30px;
+  border: 2px solid $primary;; 
+  border-radius: 10px;
+  color: $primary;; 
+  font-size: 32px; 
+  font-weight: bold;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .text-overlay {
+    font-size: 22px; /* Ajuste menor para telas pequenas */
+    padding: 20px;
+  }
+}

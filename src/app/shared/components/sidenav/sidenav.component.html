@@ -1,0 +1,59 @@
+<div class="toolbar-container">
+  <mat-toolbar color="primary">
+    <span class="school-name">
+      Jardim Digital Escola Estadual Prof. Maria Augusta de Ávila
+    </span>
+  </mat-toolbar>
+</div>
+
+<div class="content">
+  <router-outlet></router-outlet>
+</div>
+
+<!-- Bottom Navigation Toolbar -->
+<mat-toolbar color="primary" class="bottom-nav">
+  <button
+    mat-icon-button
+    [matMenuTriggerFor]="languageMenu"
+    matTooltip="{{ 'MENU.CHANGE_LANGUAGE' | translate }}"
+  >
+    <mat-icon>language</mat-icon>
+  </button>
+
+  <mat-menu #languageMenu="matMenu">
+    <button
+      mat-menu-item
+      *ngFor="let lang of languages"
+      (click)="changeLanguage(lang.code)"
+      [class.selected-language]="lang.code === selectedLanguage"
+    >
+      {{ lang.label }}
+    </button>
+  </mat-menu>
+
+  <button
+    mat-icon-button
+    routerLink="/"
+    matTooltip="{{ 'MENU.HOME' | translate }}"
+  >
+    <mat-icon>grass</mat-icon>
+  </button>
+
+  <button
+    mat-icon-button
+    *ngIf="!isDark"
+    (click)="setDarkTheme()"
+    matTooltip="{{ 'MENU.CHANGE_THEME' | translate }}"
+  >
+    <mat-icon>dark_mode</mat-icon>
+  </button>
+
+  <button
+    mat-icon-button
+    *ngIf="isDark"
+    (click)="setLightTheme()"
+    matTooltip="{{ 'MENU.CHANGE_THEME' | translate }}"
+  >
+    <mat-icon>light_mode</mat-icon>
+  </button>
+</mat-toolbar>

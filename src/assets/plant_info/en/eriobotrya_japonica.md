@@ -1,0 +1,17 @@
+_Eriobotrya japonica_, commonly known as loquat, is a small evergreen tree or large shrub belonging to the Rosaceae family. Native to southeastern China, it has been cultivated in Japan for over a millennium and has naturalized in regions such as India, the Mediterranean basin, the Canary Islands, Pakistan, Chile, and Argentina.
+
+The loquat typically reaches a height of 5 to 10 meters (16 to 33 feet) with a rounded canopy. Its leaves are large, measuring between 10 to 25 centimeters (4 to 10 inches) in length, dark green, leathery, and have a serrated margin. The upper surface of the leaves is glossy, while the underside is covered with fine, rust-colored hairs.
+
+Flowering occurs in autumn or early winter. The flowers are small, white, and fragrant, arranged in dense terminal panicles. This unusual flowering time allows the fruit to develop during the cooler months, maturing in late winter or early spring.
+
+The fruit is a pome, oval, rounded, or pear-shaped, measuring 2 to 5 centimeters (0.8 to 2 inches) in length. When ripe, the skin is smooth and ranges from yellow to orange. The flesh is succulent, tangy to sweet, and varies in color from white to orange, depending on the cultivar. Each fruit contains one to several large, brown seeds.
+
+Loquats are consumed fresh and are also used in jams, jellies, and pies. In some cultures, they are fermented to produce alcoholic beverages. The fruit is rich in vitamins A, B6, C, dietary fiber, potassium, and manganese, offering various health benefits.
+
+In traditional medicine, loquat leaves have been used to treat respiratory ailments. They contain compounds believed to have anti-inflammatory and antioxidant properties.
+
+Cultivation of loquat requires a subtropical to mild temperate climate. The tree prefers well-drained soils and is relatively drought-tolerant once established. It is also grown as an ornamental plant due to its attractive foliage and flowers.
+
+However, loquat is susceptible to certain pests and diseases, including fire blight, a bacterial infection that can cause significant damage. Regular monitoring and appropriate management practices are essential to maintain tree health.
+
+The loquat's combination of aesthetic appeal and edible fruit makes it a valuable addition to gardens and orchards in suitable climates.
