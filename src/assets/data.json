@@ -97,7 +97,7 @@
     "dracaena_trifasciata": {
       "nome_cientifico": "Dracaena trifasciata",
       "categoria": "gramineas",
-      "img": "",
+      "img": "assets/imgs/plantas/dracaena_trifasciata.jpeg",
       "pt": {
         "nome_popular": "Espada-de-São-Jorge",
         "link_wikipedia": "https://pt.wikipedia.org/wiki/Dracaena_trifasciata",
@@ -137,7 +137,7 @@
     "eugenia_uniflora": {
       "nome_cientifico": "Eugenia uniflora",
       "categoria": "arvores",
-      "img": "",
+      "img": "assets/imgs/plantas/eugenia_uniflora.jpeg",
       "pt": {
         "nome_popular": "Pitanga",
         "link_wikipedia": "https://pt.wikipedia.org/wiki/Pitanga",
@@ -157,7 +157,7 @@
     "handroanthus_albus": {
       "nome_cientifico": "Handroanthus albus",
       "categoria": "arvores",
-      "img": "",
+      "img": "assets/imgs/plantas/handroanthus_albus.jpeg",
       "pt": {
         "nome_popular": "Ipê Amarelo",
         "link_wikipedia": "https://pt.wikipedia.org/wiki/Handroanthus_albus",
@@ -177,7 +177,7 @@
     "handroanthus_heptaphyllus": {
       "nome_cientifico": "Handroanthus heptaphyllus",
       "categoria": "arvores",
-      "img": "",
+      "img": "assets/imgs/plantas/handroanthus_heptaphyllus.jpeg",
       "pt": {
         "nome_popular": "Ipê Rosa",
         "link_wikipedia": "https://pt.wikipedia.org/wiki/Handroanthus_heptaphyllus",
@@ -192,26 +192,6 @@
         "nome_popular": "Pink Trumpet Tree",
         "link_wikipedia": "https://en.wikipedia.org/wiki/Handroanthus_heptaphyllus",
         "descricao": "Tree native to South America, notable for its pink tubular flowers that appear before the foliage. Its wood is hard and durable, used in construction and carpentry. Common in parks and public roads due to its ornamental beauty.  "
-      }
-    },
-    "handroanthus_impetiginosus": {
-      "nome_cientifico": "Handroanthus impetiginosus",
-      "categoria": "arvores",
-      "img": "",
-      "pt": {
-        "nome_popular": "Handroanthus albus",
-        "link_wikipedia": "https://pt.wikipedia.org/wiki/Handroanthus_impetiginosus",
-        "descricao": "Árvore nativa da América do Sul, conhecida por suas flores tubulares rosa que florescem antes das folhas. Sua madeira é densa e resistente, utilizada na construção civil. A casca é usada na medicina tradicional para infusões. Comum em paisagismo urbano.  "
-      },
-      "es": {
-        "nome_popular": "Lapacho Rosado",
-        "link_wikipedia": "https://es.wikipedia.org/wiki/Handroanthus_impetiginosus",
-        "descricao": "Árbol nativo de América del Sur, conocido por sus flores tubulares rosadas que florecen antes de las hojas. Su madera es densa y resistente, utilizada en la construcción. La corteza se utiliza en la medicina tradicional para infusiones. Común en paisajismo urbano.  "
-      },
-      "en": {
-        "nome_popular": "Trumpet Tree",
-        "link_wikipedia": "https://en.wikipedia.org/wiki/Handroanthus_impetiginosus",
-        "descricao": "Tree native to South America, known for its tubular pink flowers that bloom before the leaves. Its wood is dense and durable, used in construction. The bark is used in traditional medicine for infusions. Common in urban landscaping.  "
       }
     },
     "heliconia_rostrata": {
@@ -237,7 +217,7 @@
     "malpighia_emarginata": {
       "nome_cientifico": "Malpighia emarginata",
       "categoria": "arvores",
-      "img": "",
+      "img": "assets/imgs/plantas/malpighia_emarginata.jpeg",
       "pt": {
         "nome_popular": "Acerola",
         "link_wikipedia": "https://pt.wikipedia.org/wiki/Acerola",
@@ -257,7 +237,7 @@
     "musa_acuminata": {
       "nome_cientifico": "Musa acuminata",
       "categoria": "gramineas",
-      "img": "",
+      "img": "assets/imgs/plantas/musa_acuminata.jpeg",
       "pt": {
         "nome_popular": "Banana Nanica",
         "link_wikipedia": "https://pt.wikipedia.org/wiki/Musa_acuminata",
@@ -277,7 +257,7 @@
     "musa_balbisiana": {
       "nome_cientifico": "Musa balbisiana",
       "categoria": "gramineas",
-      "img": "",
+      "img": "assets/imgs/plantas/musa_balbisiana.jpeg",
       "pt": {
         "nome_popular": "Banana Prata",
         "link_wikipedia": "https://pt.wikipedia.org/wiki/Bananeira",
@@ -357,7 +337,7 @@
     "psidium_guajava": {
       "nome_cientifico": "Psidium guajava",
       "categoria": "arvores",
-      "img": "",
+      "img": "assets/imgs/plantas/psidium_guajava.jpeg",
       "pt": {
         "nome_popular": "Goiaba Branca",
         "link_wikipedia": "https://pt.wikipedia.org/wiki/Goiabeira",
@@ -397,7 +377,7 @@
     "saccharum_officinarum": {
       "nome_cientifico": "Saccharum officinarum",
       "categoria": "gramineas",
-      "img": "",
+      "img": "assets/imgs/plantas/saccharum_officinarum.jpeg",
       "pt": {
         "nome_popular": "Cana-de-açúcar ",
         "link_wikipedia": "https://pt.wikipedia.org/wiki/Saccharum_officinarum",
@@ -437,7 +417,7 @@
     "theobroma_cacao": {
       "nome_cientifico": "Theobroma cacao",
       "categoria": "arvores",
-      "img": "",
+      "img": "assets/imgs/plantas/theobroma_cacao.jpeg",
       "pt": {
         "nome_popular": "Cacau",
         "link_wikipedia": "https://pt.wikipedia.org/wiki/Cacau",
