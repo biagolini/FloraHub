@@ -13,7 +13,7 @@ Isso instala globalmente a ferramenta `angular-cli-ghpages`, que facilita a publ
 
 ---
 
-### Passo 12 Configurar o `base-href` Corretamente
+### Passo 2. Configurar o `base-href` Corretamente
 Como o repositório **não** é um repositório de usuário (ou seja, não está em `biagolini.github.io`), você precisa definir corretamente o `base-href`, pois o GitHub Pages hospeda o site em:
 
 ```
@@ -34,6 +34,10 @@ Isso irá gerar os arquivos na pasta `dist/CarlosBiagolini/`.
 Agora, execute o seguinte comando para enviar os arquivos para a branch `gh-pages`:
 
 ```sh
+# Envio via SSH
+npx angular-cli-ghpages --dir=dist/CarlosBiagolini --repo="git@github.com:biagolini/FloraHub.git"
+
+# Envio via HTTPS
 npx angular-cli-ghpages --dir=dist/CarlosBiagolini --repo="https://github.com/biagolini/FloraHub.git"
 ```
 
